@@ -1,1 +1,1 @@
-# C-LeetCode-100Day-Challenge
+# C-LeetCode-Challenge
