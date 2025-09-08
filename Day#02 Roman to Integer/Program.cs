@@ -1,12 +1,8 @@
 ﻿/*
-# Roman to Integer (LeetCode) — C# Solution
-
-## Short details
-Convert a Roman numeral string into its integer value.
-Input is guaranteed valid and in range [1, 3999].
+# Roman to Integer — C# Solution
 
 ## Problem
-Given a Roman numeral string `s`, return its integer.
+Given a Roman numeral string, return its integer.
 Examples:
 - "III" → 3
 - "LVIII" → 58
